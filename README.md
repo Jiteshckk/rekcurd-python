@@ -5,7 +5,7 @@
 [![codecov](https://codecov.io/gh/rekcurd/rekcurd-python/branch/master/graph/badge.svg)](https://codecov.io/gh/rekcurd/rekcurd-python "Non-generated packages only")
 [![pypi supported versions](https://img.shields.io/pypi/pyversions/rekcurd.svg)](https://pypi.python.org/pypi/rekcurd)
 
-Rekcurd is the Project for serving ML module. This is a gRPC micro-framework and it can be used like [Django](https://docs.djangoproject.com/) and [Flask](http://flask.pocoo.org/).
+Rekcurd is the Project for serving ML module. This is a gRPC micro-framework and it can be used like [ Django ](https://docs.djangoproject.com/) and [Flask](http://flask.pocoo.org/).
 
 
 ## Parent Project
